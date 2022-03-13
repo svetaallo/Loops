@@ -1,0 +1,14 @@
+C:\Users\hronn\source\repos\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.exe
+C:\Users\hronn\source\repos\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.deps.json
+C:\Users\hronn\source\repos\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.json
+C:\Users\hronn\source\repos\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.dev.json
+C:\Users\hronn\source\repos\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.dll
+C:\Users\hronn\source\repos\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\hronn\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.AssemblyReference.cache
+C:\Users\hronn\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hronn\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfoInputs.cache
+C:\Users\hronn\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfo.cs
+C:\Users\hronn\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.CoreCompileInputs.cache
+C:\Users\hronn\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.dll
+C:\Users\hronn\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\hronn\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache
